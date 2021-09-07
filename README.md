@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsvap
-- 👀 I’m interested in Web dev, Data Science, AI, Blockchin  ❤
+- 👀 I’m interested in Web dev, Data Science, AI, Blockchain  ❤
 - 🌱 I’m currently pursuing my bachelor's degree in CS
 
 <!---
